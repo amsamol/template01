@@ -1,0 +1,26 @@
+h1{
+	font-size: 20px;
+	margin: 0;
+}
+h2{
+	font-size: 18px;
+}
+h3{
+	font-size: 16px;
+}
+p{
+	font-size: 16px;
+}
+.pagination{
+	margin: 0 auto;
+	text-align: center;
+    justify-content: center;
+}
+.footer-area{
+	background: #343a40;
+	text-align: center;
+	color: #fff;
+}
+.navbar-toggler{
+	border: none;
+}
